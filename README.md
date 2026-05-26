@@ -3,7 +3,7 @@
 =====================================
 Author: Erin
 Version: 1.0.0
-
+# IMPORTANT!!!! INSTALL FL-Modkit by babyhamsta. THESE MODS WILL NOT WORK IN MULTIPLAYER!!!!
 Description
 -----------
 Adds a voice-controlled radio dispatch system to Flashing Lights. Use push-to-
